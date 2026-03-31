@@ -1,6 +1,6 @@
 # Mayank Singh
 
-Hello, stranger you just stumbled on my README.md :P
+Hello, stranger you just stumbled upon my README.md :P
 
 I use Nix, btw :)
 
