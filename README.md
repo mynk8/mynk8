@@ -1,9 +1,9 @@
 # Mayank Singh
 
-Hello, stranger you just stumbled upon my README.md :P
+Systems Engineering and AI Engineering.
+Experience with async pipelines, containerised workflows, CI/CD integration
 
 I use Nix, btw :)
-
 I have contributed to Fedora under GSoC '25.
 
-I love tinkering with systems, building and breaking stuff.
+Loves to work on distributed systems, infrastructure and reliability.
